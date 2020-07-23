@@ -79,5 +79,6 @@ for clf, title, ax in zip(models, titles, sub.flatten()):
     ax.set_xticks(())
     ax.set_yticks(())
     ax.set_title(title)
-
+# adding some ploting
 plt.show()
+# replace with other view
